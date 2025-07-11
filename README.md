@@ -65,7 +65,7 @@ DB_CONFIG = {
 ## 🎬 Demo
 
 A video demonstration is available below to showcase the agent's capabilities.
-<!-- Video demo section will be shown here --> <div align="center"> <video width="600" controls> <source src="YOUR_VIDEO_LINK_HERE" type="video/mp4"> Your browser does not support the video tag. </video> </div>
+<!-- Video demo section will be shown here --> <div align="center"> <video width="600" controls> <source src="https://github.com/anonymousminati/SQL-agent/blob/main/SQL%20AGENT%20-%20Made%20with%20Clipchamp.mp4" type="video/mp4"> Your browser does not support the video tag. </video> </div>
   
 
 
